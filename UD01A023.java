@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class UD01A023{
-	public static void main(String[] args){
+	public static voi main(String[] args){
 		Scanner teclado=new Scanner(System.in);
 		float num1;
 		float num2;
